@@ -1,0 +1,9 @@
+body{
+    background-image: url("./images/0014.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home{
+    margin-top: 100px;
+}
